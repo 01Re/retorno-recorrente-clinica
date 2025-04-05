@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo analisar e propor soluções baseadas em dados para **aumentar a taxa de retorno de pacientes** em clínicas odontológicas, com foco especial em **clínicas de implantes dentários**.
 
-A proposta é transformar dados do dia a dia em estratégias acessíveis, usando planilhas bem estruturadas, automações simples e análises claras — mesmo para clínicas que não têm familiaridade.
+A proposta é transformar dados do dia a dia em estratégias acessíveis, usando planilhas bem estruturadas, automações simples e análises claras — mesmo para clínicas que não têm familiaridade com a ciência de dados em seu negócio.
 
 ---
 
