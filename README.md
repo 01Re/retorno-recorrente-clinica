@@ -1,4 +1,4 @@
-# 📊 Retorno Recorrente de Pacientes em Clínicas Odontológicas
+# 📊 Automação para follow up de pacientes em clínicas odontológicas
 
 
 
